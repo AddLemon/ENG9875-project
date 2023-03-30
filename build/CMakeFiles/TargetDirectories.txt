@@ -1,0 +1,3 @@
+/Users/yuhao/Documents/MyShare/ENG9875/subject/build/CMakeFiles/main.dir
+/Users/yuhao/Documents/MyShare/ENG9875/subject/build/CMakeFiles/edit_cache.dir
+/Users/yuhao/Documents/MyShare/ENG9875/subject/build/CMakeFiles/rebuild_cache.dir

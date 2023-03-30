@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/clock.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/clock.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/clock.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/test.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/test.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/test.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_FCFS.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_FCFS.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_FCFS.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_SJF.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_SJF.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_SJF.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_STCF.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_STCF.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_STCF.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_HPF.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_HPF.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_HPF.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_HRRN.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_HRRN.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_HRRN.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/process_public.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/process_public.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/process_public.c"
+},
+{
+  "directory": "/Users/yuhao/Documents/MyShare/ENG9875/subject/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/main.c.o -c /Users/yuhao/Documents/MyShare/ENG9875/subject/main.c",
+  "file": "/Users/yuhao/Documents/MyShare/ENG9875/subject/main.c"
+}
+]
